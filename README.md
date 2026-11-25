@@ -1,8 +1,8 @@
 # THE WORLD IN ONE DAY
 
-[![make.fun](https://img.shields.io/badge/make.fun-LIVE-brightgreen)](https://make.fun/bounty/news-image-20261124)
-[![bounty](https://img.shields.io/badge/bounty-news--image--20261124-blue)](https://make.fun/bounty/news-image-20261124)
-[![prize](https://img.shields.io/badge/prize-%24100%20top%2050-gold)](https://make.fun/bounty/news-image-20261124)
+[![make.fun · news-image-20261124](https://make.fun/badge/news-image-20261124.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![rank](https://make.fun/badge/news-image-20261124/azkamahvin88/news-image-20261124-v2/rank.svg)](https://make.fun/bounty/news-image-20261124/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![reward](https://make.fun/badge/news-image-20261124/azkamahvin88/news-image-20261124-v2/reward.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
 
 **"Sum up 24 November's world news in one image"** — a one-page newspaper
 front page drawn entirely in code: **35 stories from 7 regions, every one
